@@ -9,7 +9,7 @@ Problem Statement :
 Example:
 
     Input:
-            5
+            11
             5 6 4 9 4 6 3 8 1 9 9
 
     Output:
