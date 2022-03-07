@@ -1,4 +1,4 @@
-package SEBF;
+package sebf;
 
 import java.util.*;
 
